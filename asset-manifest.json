@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Dictionary/static/js/main.80398a25.js",
+    "index.html": "/Dictionary/index.html",
+    "main.80398a25.js.map": "/Dictionary/static/js/main.80398a25.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.80398a25.js"
+  ]
+}
